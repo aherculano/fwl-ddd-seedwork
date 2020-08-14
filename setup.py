@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='fwl-ddd-seedwork',  # How you named your package folder (MyLib)
-    version='0.1',
+    version='0.2',
     license='MIT',
     description='simple ddd seedwork',
     author='Alexandre Herculano',
