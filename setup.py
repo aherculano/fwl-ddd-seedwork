@@ -1,8 +1,9 @@
-from distutils.core import setup
+import setuptools
 
-setup(
-    name='fwl_ddd_seedwork',  # How you named your package folder (MyLib)
-    version='0.2',
+setuptools.setup(
+    name='fwl-ddd-seedwork',
+    packages=setuptools.find_packages(include=['fwl_ddd_seedwork*']),
+    version='0.3',
     license='MIT',
     description='simple ddd seedwork',
     author='Alexandre Herculano',
