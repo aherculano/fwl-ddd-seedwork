@@ -21,3 +21,7 @@ O
 setup.py,8\e\8e2edce0d507e1297474f25c00cae94258db38d8
 J
 test/domain/test_Entity.py,f\d\fda73df43ac98b59caa5159090413c125cad13d1
+K
+fwl_ddd_seedwork/dto/DTO.py,4\9\4990e4c7b3aab1e76570a8def2997b444b220e41
+P
+ fwl_ddd_seedwork/dto/__init__.py,e\7\e7a7d3c2f7f652689c7874a3a989c71815d87b0a
