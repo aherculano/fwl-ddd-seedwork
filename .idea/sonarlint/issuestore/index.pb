@@ -25,3 +25,11 @@ K
 fwl_ddd_seedwork/dto/DTO.py,4\9\4990e4c7b3aab1e76570a8def2997b444b220e41
 P
  fwl_ddd_seedwork/dto/__init__.py,e\7\e7a7d3c2f7f652689c7874a3a989c71815d87b0a
+Y
+)fwl_ddd_seedwork/infrastructure/Schema.py,8\4\84ea3665e72c853a93a1123666756597f4c3612f
+S
+#fwl_ddd_seedwork/mapper/__init__.py,8\e\8e8b7279d28538cdca934069388788b81554e5b5
+[
++fwl_ddd_seedwork/infrastructure/__init__.py,1\4\14ee78f85dd60b3f2a4dccd6ea98224f1cbec76e
+U
+%fwl_ddd_seedwork/mapper/BaseMapper.py,1\a\1a22efad64bb18aa47588c9478566650bf34291c
